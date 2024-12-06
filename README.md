@@ -1,2 +1,4 @@
-# p3_addonmanager
-Releases for the Postal 3 Addon Manager
+# Postal III Addon Manager
+## Credits
+- SharpVPK
+- VPK Tool, L4D
